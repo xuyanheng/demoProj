@@ -111,7 +111,7 @@ public class DemoServlet extends HttpServlet {
 			InetAddress netAddress = getInetAddress();
 			pw.println("<table><tr>"
 					+ "<td>Version</td>"
-					+ "<td>v1.5</td></tr>"
+					+ "<td>v11</td></tr>"
 					+ "<tr><td>Host IP</td>"
 					+ "<td>" + getHostIp(netAddress) + "</td></tr>"
 					+ "<tr><td>Host Name</td>"
